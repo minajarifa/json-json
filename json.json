@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "review": "A classic tale of racial injustice and the loss of innocence in the American South.",
+      "tags": ["Young Adult", "Identity"],
+      "totalPages": 336,
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960,
+      "rating": 4.5,
+      "image": "https://i.ibb.co/cLvc8Dt/pngwing-1.png"
+    },
+    {
+      "id": 2,
+      "bookName": "Money is Honey",
+      "author": "George Orwell",
+      "category": "Science Fiction",
+      "review": "A dystopian novel set in a totalitarian regime, exploring themes of surveillance, government control, and individual freedom.",
+      "tags": ["Young Adult", "Identity"],
+      "totalPages": 328,
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949,
+      "rating": 4.6,
+      "image": "https://i.ibb.co/JnjWz9Q/kindpng-7318921.png"
+    },
+    {
+      "id": 3,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "review": "A tale of love, wealth, and the American Dream set in the Roaring Twenties.",
+      "tags": ["Young Adult", "Identity"],
+      "totalPages": 180,
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925,
+      "rating": 4.3,
+      "image": "https://i.ibb.co/y6c3Sf4/kindpng-5624060-1.png"
+    },
+    {
+      "id": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "review": "A coming-of-age novel that explores themes of alienation, identity, and adolescence.",
+      "tags": ["Young Adult", "Identity"],
+      "totalPages": 224,
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951,
+      "rating": 4.0,
+      "image": "https://i.ibb.co/MCWGYLy/kindpng-4945926-1.png"
+    },
+    {
+      "id": 5,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "category": "Fantasy",
+      "review": "A tale of adventure and heroism set in the mythical world of Middle-earth.",
+      "tags": ["Young Adult", "Identity"],
+      "totalPages": 310,
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937,
+      "rating": 4.7,
+      "image": "https://i.ibb.co/9sHW4k1/kindpng-81724-1.png"
+    },
+    {
+      "id": 6,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Fiction",
+      "review": "A romantic comedy of manners set in early 19th-century England, exploring themes of love, marriage, and social status.",
+      "tags": ["Young Adult", "Identity"],
+      "totalPages": 279,
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813,
+      "rating": 4.4,
+      "image": "https://i.ibb.co/vdZGT7t/BOOK.webp"
+    }
+  ]
+  
